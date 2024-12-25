@@ -1,1 +1,1 @@
-# This is a repo of various Github gists 
+# This is a repo of various interesting Github gists
